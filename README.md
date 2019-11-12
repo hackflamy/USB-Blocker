@@ -1,2 +1,2 @@
 # USB-Blocker
-This is a c++ project 
+This is a python project 
